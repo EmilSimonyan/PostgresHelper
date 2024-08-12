@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostgresHelper.Api", "PostgresHelper.Api\PostgresHelper.Api.csproj", "{69E7FF50-B870-4957-BEED-9D12B09A29A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostgresHelper.PostgresNuget", "PostgresHelper.PostgresNuget\PostgresHelper.PostgresNuget.csproj", "{DCB2122A-B362-4ECF-8CB7-3765BDA42154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostgresHelper.DataAccess", "PostgresHelper.DataAccess\PostgresHelper.DataAccess.csproj", "{057D2339-6036-4D59-8103-6E8DF1B91CE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69E7FF50-B870-4957-BEED-9D12B09A29A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E7FF50-B870-4957-BEED-9D12B09A29A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E7FF50-B870-4957-BEED-9D12B09A29A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E7FF50-B870-4957-BEED-9D12B09A29A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB2122A-B362-4ECF-8CB7-3765BDA42154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB2122A-B362-4ECF-8CB7-3765BDA42154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB2122A-B362-4ECF-8CB7-3765BDA42154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB2122A-B362-4ECF-8CB7-3765BDA42154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{057D2339-6036-4D59-8103-6E8DF1B91CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{057D2339-6036-4D59-8103-6E8DF1B91CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{057D2339-6036-4D59-8103-6E8DF1B91CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{057D2339-6036-4D59-8103-6E8DF1B91CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
